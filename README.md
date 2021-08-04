@@ -8,7 +8,7 @@ feel free and meet my Github. 😺🐙
 Next, you'll see the tools I've already used. 👇
 
 ## Operational System
-![](https://img.shields.io/badge/elementary_os-f2f2f2?style=for-the-badge&logo=elementary&logoColor=white)![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/elementary_os-f2f2f2?style=for-the-badge&logo=elementary&logoColor=black)![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ## Development 
 #### Front 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
