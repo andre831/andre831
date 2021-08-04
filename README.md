@@ -2,8 +2,8 @@
  
 feel free and meet my Github. 😺🐙
 
- If you're in a hurry, visit my portfolio: 
- 👉![](andre831.github.io/my-portfolio)👈
+ If you're in a hurry, visit my portfolio: \
+ 👉 https://andre831.github.io/my-portfolio/ 👈
 
 Next, you'll see the tools I've already used. 👇
 
