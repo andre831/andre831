@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi 😎
+ 
+feel free and meet my Github. 😺🐙
 
-<!--
-**andre831/andre831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ If you're in a hurry, visit my portfolio: 
+ 👉 andre831.github.io/my-portfolio 👈
 
-Here are some ideas to get you started:
+Next, you'll see the tools I've already used. 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Operational System
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## Development 
+#### Front 
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### Back
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### Database
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)![](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+## 
+## Social
+ 
+[![Twitter Badge](https://img.shields.io/badge/-@andre831__-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/andre831_)](https://twitter.com/andre831_)[![Linkedin Badge](https://img.shields.io/badge/-André_Luciano-darkblue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-luciano-8118331a3/)](https://www.linkedin.com/in/andr%C3%A9-luciano-8118331a3/)[![Gmail Badge](https://img.shields.io/badge/-andrelucianodossantosjunior@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link)](mailto:andrelucianodossantosjunior@gmail.com)
