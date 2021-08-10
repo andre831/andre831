@@ -1,6 +1,6 @@
 # Hi 😎
  
-feel free and meet my Github. 😺🐙
+Feel free and meet my Github. 😺🐙
 
  If you're in a hurry, visit my portfolio: \
  👉 https://andre831.github.io/my-portfolio/ 👈
