@@ -2,7 +2,7 @@
  <h2>Hi, I'm André Santos</h2>
  <p>
   <b>
-   Fullstack Web Developer
+   Full Stack Web Developer
   </b>
  </p>
 </div>
